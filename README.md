@@ -21,7 +21,7 @@ You will need to install npm/node.js - https://nodejs.org/en
 
 ## Usage
 
-Here is a video example of how to use this application: <br> ![Demo Video](https://www.youtube.com/watch?v=k2VHsA85Dv4&ab_channel=JacobWillis)
+Here is a video example of how to use this application: <br> [Demo Video](https://www.youtube.com/watch?v=k2VHsA85Dv4&ab_channel=JacobWillis)
 
 ## Credits
 
