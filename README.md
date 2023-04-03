@@ -21,12 +21,13 @@ You will need to install npm/node.js - https://nodejs.org/en
 
 ## Usage
 
-Here is a video example of how to use this application: 
+Here is a video example of how to use this application: <br> ![Demo Video](https://www.youtube.com/watch?v=k2VHsA85Dv4&ab_channel=JacobWillis)
 
 ## Credits
 
 Node.JS: https://nodejs.org/en <br> 
-Inquirer: https://www.npmjs.com/package/inquirer
+Inquirer: https://www.npmjs.com/package/inquirer <br>
+Jest: https://jestjs.io/
 
 ## License
 
