@@ -25,7 +25,8 @@ Here is a video example of how to use this application:
 
 ## Credits
 
-Node.JS: https://nodejs.org/en /n Inquirer: https://www.npmjs.com/package/inquirer
+Node.JS: https://nodejs.org/en <br> 
+Inquirer: https://www.npmjs.com/package/inquirer
 
 ## License
 
